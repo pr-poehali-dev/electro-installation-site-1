@@ -75,7 +75,7 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <div className="font-semibold text-gray-900">
-                      +7 (922) XXX-XX-XX
+                      +7 (922)-001-55-97
                     </div>
                     <div className="text-gray-600">
                       Звонки принимаем с 8:00 до 22:00
