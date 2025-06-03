@@ -75,7 +75,7 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <div className="font-semibold text-gray-900">
-                      +7 (999) 123-45-67
+                      +7 (922) XXX-XX-XX
                     </div>
                     <div className="text-gray-600">
                       Звонки принимаем с 8:00 до 22:00
@@ -100,9 +100,7 @@ const ContactSection = () => {
                     <Icon name="MapPin" className="text-blue-600" size={20} />
                   </div>
                   <div>
-                    <div className="font-semibold text-gray-900">
-                      Москва и МО
-                    </div>
+                    <div className="font-semibold text-gray-900">Тюмень</div>
                     <div className="text-gray-600">
                       Выезжаем по всему региону
                     </div>
